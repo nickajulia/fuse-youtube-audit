@@ -1,6 +1,6 @@
 # Fuse YouTube Channel Audit
 
-A Claude-powered YouTube channel analyst that pulls real data from [Fuse](https://getfuse.io) and finds the patterns most creators never see.
+A Claude-powered YouTube channel analyst that pulls real data from [Fuse](https://getfused.io) and finds the patterns most creators never see.
 
 **What it finds:**
 
@@ -13,7 +13,7 @@ A Claude-powered YouTube channel analyst that pulls real data from [Fuse](https:
 
 ### 1. Get a Fuse API key
 
-1. Create a free account at [getfuse.io](https://getfuse.io)
+1. Create a free account at [getfused.io](https://getfused.io)
 2. Go to **Account > Developer** tab
 3. Click **Create Key** and copy it (you won't see it again)
 
@@ -70,7 +70,7 @@ A structured report covering:
 
 ## Going deeper
 
-The free audit uses Fuse's public data layer. [Fuse Pro](https://getfuse.io/pricing) adds:
+The free audit uses Fuse's public data layer. [Fuse Pro](https://getfused.io/pricing) adds:
 
 - **Outlier scores** with exact multipliers for every video
 - **Topic Intelligence** showing content gaps with proven demand in your category
@@ -81,5 +81,5 @@ The free audit uses Fuse's public data layer. [Fuse Pro](https://getfuse.io/pric
 ## Built with
 
 - [Claude](https://claude.ai) for analysis
-- [Fuse](https://getfuse.io) for YouTube creator data
+- [Fuse](https://getfused.io) for YouTube creator data
 - [Model Context Protocol](https://modelcontextprotocol.io) connecting the two

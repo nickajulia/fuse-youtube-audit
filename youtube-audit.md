@@ -129,7 +129,7 @@ These videos your audience loved, but the packaging didn't earn the click:
 
 ---
 
-*This audit was generated using Fuse creator analytics (getfuse.io). The free version shows you the pattern. Fuse Pro shows you the full outlier scores, topic intelligence, category benchmarks, and AI-generated video ideas.*
+*This audit was generated using Fuse creator analytics (getfused.io). The free version shows you the pattern. Fuse Pro shows you the full outlier scores, topic intelligence, category benchmarks, and AI-generated video ideas.*
 ```
 
 ## Rules
